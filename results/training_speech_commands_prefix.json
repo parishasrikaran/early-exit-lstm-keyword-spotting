@@ -1,0 +1,83 @@
+{
+  "dataset": "speech_commands",
+  "mode": "prefix",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.99165,
+      "validation_accuracy": 0.64967
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.10512,
+      "validation_accuracy": 0.73967
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.84228,
+      "validation_accuracy": 0.80933
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.72146,
+      "validation_accuracy": 0.79833
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.65499,
+      "validation_accuracy": 0.84833
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.5994,
+      "validation_accuracy": 0.865
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.54834,
+      "validation_accuracy": 0.86467
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.49725,
+      "validation_accuracy": 0.87333
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.47136,
+      "validation_accuracy": 0.88667
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.45559,
+      "validation_accuracy": 0.88967
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.42657,
+      "validation_accuracy": 0.89033
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.39934,
+      "validation_accuracy": 0.89167
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.38773,
+      "validation_accuracy": 0.896
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.36532,
+      "validation_accuracy": 0.89233
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.35354,
+      "validation_accuracy": 0.89833
+    }
+  ],
+  "best_validation_accuracy": 0.8983333333333333,
+  "checkpoint": "models/real_prefix_full.pt"
+}

@@ -1,0 +1,36 @@
+Running on cpu
+Training examples: 864; validation examples: 288
+Epoch  1 | train loss=2.3603 | validation accuracy=0.399
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch  2 | train loss=2.1234 | validation accuracy=0.479
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch  3 | train loss=1.9390 | validation accuracy=0.497
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch  4 | train loss=1.7965 | validation accuracy=0.677
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch  5 | train loss=1.6726 | validation accuracy=0.639
+Epoch  6 | train loss=1.5666 | validation accuracy=0.674
+Epoch  7 | train loss=1.4760 | validation accuracy=0.701
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch  8 | train loss=1.3962 | validation accuracy=0.684
+Epoch  9 | train loss=1.3301 | validation accuracy=0.688
+Epoch 10 | train loss=1.2762 | validation accuracy=0.715
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch 11 | train loss=1.2075 | validation accuracy=0.712
+Epoch 12 | train loss=1.1663 | validation accuracy=0.684
+Epoch 13 | train loss=1.1129 | validation accuracy=0.712
+Epoch 14 | train loss=1.0696 | validation accuracy=0.726
+  Saved best checkpoint: models/synthetic_baseline.pt
+Epoch 15 | train loss=1.0244 | validation accuracy=0.722
+Epoch 16 | train loss=0.9851 | validation accuracy=0.701
+Epoch 17 | train loss=0.9476 | validation accuracy=0.719
+Epoch 18 | train loss=0.9187 | validation accuracy=0.715
+Epoch 19 | train loss=0.8818 | validation accuracy=0.694
+Epoch 20 | train loss=0.8497 | validation accuracy=0.705
+Epoch 21 | train loss=0.8281 | validation accuracy=0.684
+Epoch 22 | train loss=0.7798 | validation accuracy=0.715
+Epoch 23 | train loss=0.7356 | validation accuracy=0.722
+Epoch 24 | train loss=0.6866 | validation accuracy=0.726
+Epoch 25 | train loss=0.6729 | validation accuracy=0.604
+Epoch 26 | train loss=0.6775 | validation accuracy=0.684
+Finished. Best validation accuracy: 0.726 (not test accuracy)

@@ -1,0 +1,9 @@
+torch>=2.3,<3
+torchaudio>=2.3,<3
+numpy>=1.26
+soundfile>=0.12
+matplotlib>=3.8
+scipy>=1.11
+scikit-learn>=1.4
+sounddevice>=0.4.6
+pytest>=8

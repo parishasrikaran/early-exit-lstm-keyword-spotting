@@ -1,0 +1,40 @@
+{
+  "dataset": "Synthetic TTS speech generated locally by espeak; NOT real recorded speech",
+  "voices": {
+    "train": [
+      "en",
+      "en-us",
+      "en-gb",
+      "en-uk-wmids"
+    ],
+    "validation": [
+      "en-uk-rp",
+      "en-wi"
+    ],
+    "test": [
+      "en-sc",
+      "en-uk-north"
+    ]
+  },
+  "classes": [
+    "yes",
+    "no",
+    "up",
+    "down",
+    "left",
+    "right",
+    "on",
+    "off",
+    "stop",
+    "go",
+    "unknown",
+    "silence"
+  ],
+  "generation_seed": 42,
+  "counts_per_class_per_voice": {
+    "train": 18,
+    "validation": 12,
+    "test": 12
+  },
+  "limitations": "Voice splits are disjoint, but all voices use the same TTS engine. No real acoustic speakers, no environmental audio, not comparable to Speech Commands v2."
+}

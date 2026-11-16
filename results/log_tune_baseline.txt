@@ -1,0 +1,25 @@
+{
+  "threshold": 0.85,
+  "persistence": 3,
+  "minimum_ms": 300,
+  "decision_every": 2,
+  "max_negative_trigger_rate": 0.02,
+  "status": "validation negative-trigger constraint satisfied",
+  "validation_metrics": {
+    "clips": 288,
+    "positive_clips": 240,
+    "negative_clips": 48,
+    "fixed_window_accuracy": 0.7256944444444444,
+    "fixed_negative_trigger_rate": 0.3541666666666667,
+    "early_keyword_recall": 0.04583333333333333,
+    "early_wrong_keyword_rate": 0.0,
+    "early_miss_rate": 0.9541666666666667,
+    "early_negative_trigger_rate": 0.0,
+    "early_clip_coverage": 0.03819444444444445,
+    "mean_emission_ms": 445.90909090909093,
+    "p50_emission_ms": 455.0,
+    "p95_emission_ms": 595.0,
+    "note": "Emission timestamps are relative to clip start. NOT event-onset delay or false accepts/hour."
+  }
+}
+Saved policy: results/policy_synthetic_baseline.json

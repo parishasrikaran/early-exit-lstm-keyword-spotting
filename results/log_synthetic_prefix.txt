@@ -1,0 +1,42 @@
+Running on cpu
+Training examples: 864; validation examples: 288
+Epoch  1 | train loss=2.8253 | validation accuracy=0.417
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  2 | train loss=2.5324 | validation accuracy=0.476
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  3 | train loss=2.3047 | validation accuracy=0.479
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  4 | train loss=2.1319 | validation accuracy=0.663
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  5 | train loss=1.9824 | validation accuracy=0.653
+Epoch  6 | train loss=1.8669 | validation accuracy=0.684
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  7 | train loss=1.7540 | validation accuracy=0.684
+Epoch  8 | train loss=1.6503 | validation accuracy=0.694
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch  9 | train loss=1.5732 | validation accuracy=0.705
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 10 | train loss=1.5005 | validation accuracy=0.722
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 11 | train loss=1.4309 | validation accuracy=0.705
+Epoch 12 | train loss=1.3715 | validation accuracy=0.698
+Epoch 13 | train loss=1.2963 | validation accuracy=0.712
+Epoch 14 | train loss=1.2010 | validation accuracy=0.708
+Epoch 15 | train loss=1.0911 | validation accuracy=0.753
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 16 | train loss=1.0347 | validation accuracy=0.771
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 17 | train loss=0.9879 | validation accuracy=0.781
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 18 | train loss=0.9291 | validation accuracy=0.747
+Epoch 19 | train loss=0.9572 | validation accuracy=0.760
+Epoch 20 | train loss=0.8735 | validation accuracy=0.736
+Epoch 21 | train loss=0.8437 | validation accuracy=0.774
+Epoch 22 | train loss=0.8098 | validation accuracy=0.781
+Epoch 23 | train loss=0.7808 | validation accuracy=0.785
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 24 | train loss=0.7560 | validation accuracy=0.795
+  Saved best checkpoint: models/synthetic_prefix.pt
+Epoch 25 | train loss=0.7730 | validation accuracy=0.788
+Epoch 26 | train loss=0.7830 | validation accuracy=0.778
+Finished. Best validation accuracy: 0.795 (not test accuracy)

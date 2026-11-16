@@ -1,0 +1,24 @@
+{
+  "threshold": 0.99,
+  "persistence": 3,
+  "minimum_ms": 300,
+  "decision_every": 2,
+  "max_negative_trigger_rate": 0.02,
+  "status": "validation negative-trigger constraint satisfied",
+  "validation_metrics": {
+    "clips": 288,
+    "positive_clips": 240,
+    "negative_clips": 48,
+    "fixed_window_accuracy": 0.7951388888888888,
+    "fixed_negative_trigger_rate": 0.25,
+    "early_keyword_recall": 0.029166666666666667,
+    "early_wrong_keyword_rate": 0.0125,
+    "early_miss_rate": 0.9583333333333334,
+    "early_negative_trigger_rate": 0.0,
+    "early_clip_coverage": 0.034722222222222224,
+    "mean_emission_ms": 409.0,
+    "p50_emission_ms": 415.0,
+    "p95_emission_ms": 496.99999999999994,
+    "note": "Emission timestamps are relative to clip start. NOT event-onset delay or false accepts/hour."
+  }
+}

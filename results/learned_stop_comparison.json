@@ -1,0 +1,29 @@
+{
+  "existing_policy": {
+    "clips": 4888,
+    "positive_clips": 4074,
+    "negative_clips": 814,
+    "fixed_window_accuracy": 0.8915711947626841,
+    "fixed_negative_trigger_rate": 0.12653562653562653,
+    "early_keyword_recall": 0.6772214040255278,
+    "early_wrong_keyword_rate": 0.00859106529209622,
+    "early_miss_rate": 0.31418753068237604,
+    "early_negative_trigger_rate": 0.0171990171990172,
+    "early_clip_coverage": 0.574468085106383,
+    "mean_emission_ms": 614.7079772079773,
+    "p50_emission_ms": 615.0,
+    "p95_emission_ms": 915.0,
+    "note": "Emission timestamps are relative to clip start. NOT event-onset delay or false accepts/hour."
+  },
+  "learned_stop_head": {
+    "clips": 4888,
+    "positive_clips": 4074,
+    "negative_clips": 814,
+    "early_keyword_recall": 0.7218949435444281,
+    "early_wrong_keyword_rate": 0.013500245459008346,
+    "early_miss_rate": 0.2646048109965635,
+    "early_negative_trigger_rate": 0.02334152334152334,
+    "early_clip_coverage": 0.6168166939443536,
+    "mean_emission_ms": 845.575456053068
+  }
+}

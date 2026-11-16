@@ -1,0 +1,14 @@
+{
+  "threshold": 0.85,
+  "persistence": 3,
+  "minimum_ms": 300,
+  "decision_every": 4,
+  "max_negative_trigger_rate": 0.02,
+  "validation_metrics": {
+    "threshold": 0.85,
+    "early_keyword_recall": 0.7421560740144811,
+    "early_wrong_keyword_rate": 0.00925181013676589,
+    "early_negative_trigger_rate": 0.017509727626459144,
+    "mean_emission_ms": 844.9387320191795
+  }
+}
